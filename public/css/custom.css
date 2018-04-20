@@ -1,0 +1,9 @@
+/*can remove this css part*/
+/*.body {
+    font-family:"Monaco" !important;
+}*/
+
+.validation-fails {
+    margin-top: -5%;
+    color: #dc3545;
+}
